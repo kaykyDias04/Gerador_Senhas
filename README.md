@@ -32,7 +32,7 @@ gerador_senhas/
 ### 1. Clonar o repositório
 
 ```bash
-git clone <url>
+git clone <github.com/kaykyDias04/Gerador_Senhas>
 cd gerador_senhas
 ```
 
